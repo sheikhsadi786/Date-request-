@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyLGBwp72VDwDUR_mWxSs1hTb2LfLJgi8wtm9IurUE8KZnuB4ctNIiVfU0-l0mL7A/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx5rL4X0tqKH-dMBDxnI8PYqSKx3R8JCFPWE-Memd8gBJplStw8IrdhIuAjDCFfKZl1/exec";
 
 const yesBtn = document.getElementById("yesBtn");
 const noBtn = document.getElementById("noBtn");
